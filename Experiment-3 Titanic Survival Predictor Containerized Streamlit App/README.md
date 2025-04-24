@@ -28,3 +28,5 @@ Titanic-Prediction-Model/<br>
 
 <h2>✨ Features:</h2>
 <br>✔️ User-friendly UI with enhanced CSS <br>✔️ Live prediction updates using the trained .pkl file <br>✔️ Interactive sliders and dropdowns for input selection
+<img src="https://github.com/user-attachments/assets/88bbfafc-85c8-4d10-b184-556aa46723f6" alt="image">
+
