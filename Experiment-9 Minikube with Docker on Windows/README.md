@@ -18,14 +18,22 @@
 <br>Ensure high availability, load balancing, and fault tolerance for your applications.
 <br>By using Kubernetes, developers can focus on writing code and let Kubernetes manage the complexity of application deployment and scaling.
 
-![image](https://github.com/user-attachments/assets/8f5a0b94-75ba-4d93-8095-73306bd5fe2e)
-![image](https://github.com/user-attachments/assets/b3d9676b-e278-4745-9bf5-812dfa08f407)
-![image](https://github.com/user-attachments/assets/7e17db3f-66fe-48d0-9338-91ebc089579b)
-![image](https://github.com/user-attachments/assets/eba49c3a-6e1c-470a-9ea6-25ee8b82b8dd)
-![image](https://github.com/user-attachments/assets/ab917acf-7b4a-4b79-a992-a26fe235a135)
-![image](https://github.com/user-attachments/assets/e49e8e74-e735-47f7-a6cb-76844a822e38)
-![image](https://github.com/user-attachments/assets/8c49eda2-83ba-40a1-91e1-f9a6cdf3c67e)
-
+<img src="https://github.com/user-attachments/assets/8f5a0b94-75ba-4d93-8095-73306bd5fe2e" alt="image">
+<br>
+<img src="https://github.com/user-attachments/assets/b3d9676b-e278-4745-9bf5-812dfa08f407" alt="image">
+<br>
+<img src="https://github.com/user-attachments/assets/7e17db3f-66fe-48d0-9338-91ebc089579b" alt="image">
+<br>
+<img src="https://github.com/user-attachments/assets/eba49c3a-6e1c-470a-9ea6-25ee8b82b8dd" alt="image">
+<br>
+<img src="https://github.com/user-attachments/assets/eba49c3a-6e1c-470a-9ea6-25ee8b82b8dd" alt="image">
+<br>
+<img src="https://github.com/user-attachments/assets/eba49c3a-6e1c-470a-9ea6-25ee8b82b8dd" alt="image">
+<br>
+<img src="https://github.com/user-attachments/assets/eba49c3a-6e1c-470a-9ea6-25ee8b82b8dd" alt="image">
+<br>
+<img src="https://github.com/user-attachments/assets/9012da16-81d8-4332-a988-15cebc99c645" alt="image">
+<br>
 
 
 <h2>🎯 Conclusion</h2>
