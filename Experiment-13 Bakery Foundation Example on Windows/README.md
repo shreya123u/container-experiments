@@ -9,6 +9,8 @@ Before starting, ensure you have:
 <br>An AWS account with IAM credentials.
 <br>Basic knowledge of AWS and PowerShell.
 
+![image](https://github.com/user-attachments/assets/debcc659-9032-4eb5-bd08-7b9585fe87c4)<br>
+
 
 
 
