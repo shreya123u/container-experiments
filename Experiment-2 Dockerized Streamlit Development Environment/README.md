@@ -1,85 +1,26 @@
-🐳 Dockerized Streamlit Development Environment
-This guide helps you set up a Streamlit application inside a Docker container for an efficient and portable development experience. 🚀
+Docker Experiment 2: Binary Classification WebApp with Streamlit
+Welcome to Docker Experiment 2! This project demonstrates the power of Docker to containerize a machine learning web application built using Streamlit. The app classifies mushrooms as either edible or poisonous based on input features, utilizing machine learning classifiers.
 
-✅ Prerequisites
-Before setting up the environment, ensure you have the following installed on your machine:
+🚀 Project Overview
+This is a Binary Classification WebApp designed to predict whether a mushroom is edible or poisonous using machine learning models. The app offers a selection of classifiers, such as Support Vector Machine (SVM), Logistic Regression, and Random Forest.
 
-🔹 Docker 🐳 (Ensure the Docker daemon is running)
-🔹 Python 3.9+ 🐍 (Check installation with python --version)
-🔹 pip 📦 (Ensure it's up to date with pip --version)
-🔹 Basic knowledge of Streamlit 📊
+Key Features:
+Interactive UI built with Streamlit for classification and visualization.
+Multiple Classifiers: Choose between SVM, Logistic Regression, and Random Forest.
+Evaluation Metrics: View Confusion Matrix, ROC Curve, and Precision-Recall Curve.
+Dockerized App: Easy deployment and isolated environment.
+📝 Prerequisites
+Before running the project, ensure you have the following installed:
 
-📂 Directory Structure
-project_root/
-│── .streamlit/
-│   └── config.toml
-│── src/
-│   └── main.py
-│── Dockerfile
-│── requirements.txt
-│── README.md
-📜 File Explanations
-1️⃣ .streamlit/config.toml
-This file configures Streamlit settings for local development.
+Docker: Download and install Docker
+Docker Compose: For managing multi-container Docker applications.
+📂 Project Structure
+/Docker_Practices
+├── /Exp-2
+    ├── Dockerfile                 # Dockerfile to build the container image
+    ├── docker-compose.yml         # Docker Compose configuration file
+    ├── app.py                     # Streamlit app for mushroom classification
+    ├── requirements.txt           # Python dependencies
+    └── mushrooms.csv              # Mushroom dataset for classification
 
-[server]
-headless = true
-runOnSave = true
-fileWatcherType = "poll"
-2️⃣ src/main.py
-This file contains the core logic of the Streamlit application, including:
-
-🏠 Home Page → Introduction to the app.
-📊 Data Explorer → Allows users to upload and inspect CSV files.
-📈 Visualization Page → Generates interactive charts and graphs.
-
-3️⃣ Dockerfile
-Defines the containerized environment for Streamlit.
-
-# Use a lightweight Python image
-FROM python:3.9-slim  
-
-# Set working directory
-WORKDIR /app  
-
-# Copy dependencies and install them
-COPY requirements.txt /app/  
-RUN pip install --no-cache-dir -r requirements.txt  
-
-# Copy all project files
-COPY . /app/  
-
-# Expose Streamlit’s default port
-EXPOSE 8501  
-
-# Run the Streamlit app
-CMD ["streamlit", "run", "src/main.py", "--server.port=8501", "--server.address=0.0.0.0"]
-4️⃣ requirements.txt
-Contains necessary dependencies:
-
-streamlit
-pandas
-numpy
-matplotlib
-plotly
-⚡ Steps to Run the Project
-1️⃣ Navigate to the project directory
-cd path/to/project_root
-2️⃣ Build the Docker image
-docker build -t streamlit-app .
-3️⃣ Run the container
-docker run -p 8501:8501 streamlit-app
-4️⃣ Open in Browser
-
-
-🎯 Conclusion
-You now have a fully functional Streamlit environment running inside Docker! 🚀
-
-Streamlit App Screenshot Streamlit App Screenshot Streamlit App Screenshot
-
-💡 Next Steps:
-🔹 Add more features to your Streamlit app.
-🔹 Deploy the containerized app on AWS, GCP, or Azure.
-🔹 Experiment with Docker Compose for multi-container applications.
-
-🚀 Happy Coding! 🐳💙
+    
