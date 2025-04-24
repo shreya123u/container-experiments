@@ -19,6 +19,8 @@
 <br>By using Kubernetes, developers can focus on writing code and let Kubernetes manage the complexity of application deployment and scaling.
 
 ![image](https://github.com/user-attachments/assets/8f5a0b94-75ba-4d93-8095-73306bd5fe2e)
+![image](https://github.com/user-attachments/assets/b3d9676b-e278-4745-9bf5-812dfa08f407)
+
 
 
 <h2>🎯 Conclusion</h2>
