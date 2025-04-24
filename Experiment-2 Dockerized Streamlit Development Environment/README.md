@@ -22,3 +22,4 @@ Docker Compose: For managing multi-container Docker applications.
     ├── app.py                     # Streamlit app for mushroom classification<br>
     ├── requirements.txt           # Python dependencies<br>
     └── mushrooms.csv              # Mushroom dataset for classification<br>
+![image](https://github.com/user-attachments/assets/22c53748-45cc-43d0-a1c2-d9923f9189c7)
