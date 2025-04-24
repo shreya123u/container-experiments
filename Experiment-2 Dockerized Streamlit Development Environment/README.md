@@ -16,7 +16,7 @@ Docker: Download and install Docker
 Docker Compose: For managing multi-container Docker applications.
 📂 Project Structure
 /Docker_Practices
-├── /Exp-2
+├── /Exp-2,m n 
     ├── Dockerfile                 # Dockerfile to build the container image
     ├── docker-compose.yml         # Docker Compose configuration file
     ├── app.py                     # Streamlit app for mushroom classification
