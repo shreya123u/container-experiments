@@ -22,6 +22,9 @@
     ├── backend-service.yaml<br>
     └── api-gateway.yaml<br>
 
+![image](https://github.com/user-attachments/assets/261de542-9fe2-4c1c-95ef-a04a9f43f867)
+
+
     
 
 <h2>🔍 Architecture Overview</h2>
