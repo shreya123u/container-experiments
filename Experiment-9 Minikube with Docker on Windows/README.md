@@ -18,6 +18,7 @@
 <br>Ensure high availability, load balancing, and fault tolerance for your applications.
 <br>By using Kubernetes, developers can focus on writing code and let Kubernetes manage the complexity of application deployment and scaling.
 
+![image](https://github.com/user-attachments/assets/8f5a0b94-75ba-4d93-8095-73306bd5fe2e)
 
 
 <h2>🎯 Conclusion</h2>
