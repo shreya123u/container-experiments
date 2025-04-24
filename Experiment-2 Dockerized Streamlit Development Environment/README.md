@@ -25,5 +25,8 @@ Docker Compose: For managing multi-container Docker applications.
    <img src="https://github.com/user-attachments/assets/62a651c2-e992-44a1-9598-9b8442695dd9" alt="image"><br>
 
 
-<img src="https://github.com/user-attachments/assets/22c53748-45cc-43d0-a1c2-d9923f9189c7" alt="image">
+<img src="https://github.com/user-attachments/assets/22c53748-45cc-43d0-a1c2-d9923f9189c7" alt="image"><br>
+<img src="https://github.com/user-attachments/assets/16976bcb-eefb-4295-8016-2bb52838f4b1" alt="image">
+
+
 
